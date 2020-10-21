@@ -1,0 +1,10 @@
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\bin\Debug\CreateWriteReadFromFile.exe.config
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\bin\Debug\CreateWriteReadFromFile.exe
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\bin\Debug\CreateWriteReadFromFile.pdb
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\obj\Debug\CreateWriteReadFromFile.csprojAssemblyReference.cache
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\obj\Debug\CreateWriteReadFromFile.Form1.resources
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\obj\Debug\CreateWriteReadFromFile.Properties.Resources.resources
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\obj\Debug\CreateWriteReadFromFile.csproj.GenerateResource.cache
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\obj\Debug\CreateWriteReadFromFile.csproj.CoreCompileInputs.cache
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\obj\Debug\CreateWriteReadFromFile.exe
+C:\Users\SALMA\source\repos\CreateWriteReadFromFile\CreateWriteReadFromFile\obj\Debug\CreateWriteReadFromFile.pdb
